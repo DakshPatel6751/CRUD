@@ -1,0 +1,28 @@
+{
+  "pitches": [
+    {
+      "id": "b1d3",
+      "title": "NEW ONE",
+      "price": "00",
+      "founder": "HELLO ONE",
+      "category": "GOOD ONE",
+      "image": "https://images.unsplash.com/photo-1727200449974-5221973023d0?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "cb4b",
+      "title": "mobile",
+      "image": "https://images.unsplash.com/photo-1727042395792-803ce6f1b9bb?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "GOOD TWO",
+      "founder": "HELLO SECOUND",
+      "price": "777"
+    },
+    {
+      "id": "4521",
+      "title": "NEW",
+      "price": "66",
+      "founder": "HELLO THIRD",
+      "category": "GOOD THIRD",
+      "image": "https://images.unsplash.com/photo-1721332155484-5aa73a54c6d2?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
